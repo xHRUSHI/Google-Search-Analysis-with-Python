@@ -1,1 +1,3 @@
 # Google-Search-Analysis-with-Python
+Here I will be analyzing the Google search trends on the queries based on “Machine Learning”, so let’s create a DataFrame of the top 10 countries which search for “Machine Learning” on Google:
+# So Here we can see that searches based on “machine learning” on Google started to increase in 2017 and the highest searches were done in 2020 till today. This is how we can analyze Google searches based on any keyword. A business can perform Google search analysis to understand what people are looking for on Google at any given time. I hope you liked this article on Google search analysis with Python...
